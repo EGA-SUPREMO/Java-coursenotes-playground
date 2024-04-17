@@ -1,5 +1,5 @@
 # Playground 
-Those are course notes that I took while I studied with [Pildoras Informaticas's videos](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) around 2015.
+Those are course notes that I took while I studied using [Pildoras Informaticas's videos](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) around 2015.
 
 Also I would like to add that, this wasn't the only project where I practiced it's lessons:
 * https://github.com/EGA-SUPREMO/Text-to-number
